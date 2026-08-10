@@ -1,4 +1,4 @@
 Flask == 3.0.3
-resquest == 2.32.3
+resquests == 2.32.3
 guanicorn == 20.2.0
 cryptography == 41.0.3
