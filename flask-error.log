@@ -9,3 +9,23 @@ Press CTRL+C to quit
 127.0.0.1 - - [10/Aug/2026 16:25:10] "GET /static/style.css HTTP/1.1" 304 -
 127.0.0.1 - - [10/Aug/2026 16:25:13] "POST /generar HTTP/1.1" 200 -
 127.0.0.1 - - [10/Aug/2026 16:25:13] "GET /static/style.css HTTP/1.1" 304 -
+ * Detected change in 'C:\\Users\\santi\\Downloads\\randomuser_app-20260810T221619Z-1-001\\randomuser_app\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 519-228-416
+127.0.0.1 - - [10/Aug/2026 16:32:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 16:32:01] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [10/Aug/2026 16:32:04] "POST /generar HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 16:32:04] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [10/Aug/2026 16:32:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 16:32:09] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [10/Aug/2026 16:32:11] "POST /generar HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 16:32:11] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [10/Aug/2026 16:32:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 16:32:17] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [10/Aug/2026 16:32:19] "POST /generar HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 16:32:19] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [10/Aug/2026 16:32:23] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 16:32:23] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [10/Aug/2026 16:32:25] "POST /generar HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 16:32:25] "GET /static/style.css HTTP/1.1" 304 -
