@@ -32,6 +32,8 @@ def generar():
         "pais": resultado["location"]["country"],
         "correo": resultado["email"],
         "nombre": f"{resultado['name']['title']} {resultado['name']['first']} {resultado['name']['last']}",
+        "telefono": resultado["phone"],
+        "ciudad": resultado["location"]["city"]
     }
 
     return render_template("persona.html", persona=persona)
